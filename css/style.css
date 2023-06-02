@@ -1,0 +1,35 @@
+html,
+button {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: #618685;
+}
+
+#lblTitulo {
+    color: #36486b;
+}
+
+.container {
+    background-color: #ffffff;
+    margin: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: #5c5c5c 0px 3px 8px;
+}
+
+button {
+    display: block;
+    margin-top: 15px;
+    background-color: #36486b;
+
+    color: #ffffff;
+    font-size: 14px;
+}
+
+button:hover {
+    background-color: #b7d7e8;
+    color: #000000;
+}
